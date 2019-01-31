@@ -10,8 +10,9 @@
 class CrazyRandomSword : public Weapon {
 public:
     
-    CrazyRandomSword() : Weapon("Crazy random sword", rand()%100+7) { //Calls Weapon(name, hitpoints) constructor with values Common Spear and 40.0
-    }
+    CrazyRandomSword() : Weapon("Crazy random sword", rand()%100+7) { 
+        
+     }
 
     virtual ~CrazyRandomSword() {};
 

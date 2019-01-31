@@ -11,8 +11,9 @@
 class SimpleHammer : public Weapon {
 public:
 
-    SimpleHammer() : Weapon("Simple hammer", 25.0) { //Calls Weapon(name, hitpoints) constructor with values Common Spear and 40.0
-    }
+    SimpleHammer() : Weapon("Simple hammer", 25.0) { 
+        
+     }
 
     virtual ~SimpleHammer() {};
 
