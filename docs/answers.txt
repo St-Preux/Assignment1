@@ -1,0 +1,41 @@
+a)	Enumerating objects: 11, done.
+	Counting objects: 100% (10/10), done.
+	Delta compression using up to 4 threads
+	Compressing objects: 100% (5/5), done.
+	Writing objects: 100% (7/7), 1020 bytes | 1020.00 KiB/s, done.
+	Total 7 (delta 2), reused 0 (delta 0)
+	remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+	To https://github.com/St-Preux/Assignment1.git
+   	3d373c9..06cd5e3  master -> master
+
+b)	
+	5 commits.
+	git command: git rev-list --count HEAD
+
+c)
+	
+
+d)
+	Branches allow for people to work on additional features for the software without 
+	affecting the main software during development.
+	Another reason to branch is that it helps organize the teams workflow.
+
+e)
+	git status shows the state of the working directory and the staging area.
+	git log is a record of commits.
+
+f)
+	git log -p Weapon.h
+
+g)
+
+
+h)
+
+
+i)
+
+
+j)
+
+				
