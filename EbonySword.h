@@ -8,7 +8,7 @@ class EbonySword : public Weapon {
 public:
 
     EbonySword() : Weapon("Ebony sword", 125.0) {
-        
+    
      }
 
     virtual ~EbonySword() {};
