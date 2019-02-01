@@ -31,7 +31,9 @@ g)
 
 
 h)
-
+	I) Inheritance is a technique that allows one class to be derived from another		//Bob myers notes
+	II) A piece of code that can be used in an object and all objects deriving it.
+	III) 
 
 i)
 
