@@ -42,3 +42,10 @@ i)
 j)
 	The Dictator and Lieutenants workflow can handle a lot more people than Centralized workflow.
 				
+
+
+5) Polymorphism & Encapsulation
+	Yes this RoleGame prototype is using the concepts of Polymorphism, but there 
+	is no Encapsulation.Polymorphism is shown by Weapon being the parent class of 
+	all the other weapon classes (CommonSpear, CommonSword, CrazyRandomSword, etc).
+	
