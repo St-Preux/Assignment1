@@ -13,7 +13,7 @@ b)
 	git command: git rev-list --count HEAD
 
 c)
-	
+	Thu Jan 10 16:45:38 2019 -0500. git log .gitignore
 
 d)
 	Branches allow for people to work on additional features for the software without 
@@ -28,7 +28,7 @@ f)
 	git log -p Weapon.h
 
 g)
-
+	git log --grep=<pattern>
 
 h)
 	I) Inheritance is a technique that allows one class to be derived from another		//Bob myers notes
@@ -36,8 +36,9 @@ h)
 	III) 
 
 i)
-
+	Dictator and Lieutenants workflow is in a larger scale with 3 integration managers 
+	instead of one like the Integration-Manager Workflow.
 
 j)
-
+	The Dictator and Lieutenants workflow can handle a lot more people than Centralized workflow.
 				
